@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Jonas Candido, and I'm exploring the world of technology to learn for fun and love. I would like to become a computer scientist and get a job in this area.
-Nowadays I'm studying Java, Python, C, and MySQL, but I'm a great math enthusiast too :).
+Nowadays I'm studying Java, Python, C, Rust, Go, and MySQL, but I'm a great math enthusiast too :).
 
 Also, I'd like to share my profiles on other parts of the internet:
 <div>
