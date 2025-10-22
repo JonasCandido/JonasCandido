@@ -1,10 +1,9 @@
 ## Hi there 👋
 My name is Jonas Candido, and I'm exploring the world of technology to learn for fun and love. I want to become a computer scientist and get a job in this area.
-Currently, I'm studying Java, C, Go, Ruby, and PostgreSQL, but I'm also a great math enthusiast.
+Currently, I'm studying Java, JavaScript, C, Ruby, and PostgreSQL, but I'm also a great math enthusiast.
 
-Also, I'd like to share my profiles on other parts of the internet:
+Also, I'd like to share my profiles on Instagram, where I post content about technology:
 <div>
-  <a href="https://www.youtube.com/@JonasCandido965" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style-for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/candidod_jonas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=fort-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <!--
