@@ -1,6 +1,6 @@
 # Hi there 👋
 My name is Jonas Candido, and I'm exploring the world of technology to learn for fun and love. I want to become a computer scientist and get a job in this area.
-Currently, I'm studying Java, JavaScript, C, Ruby, and PostgreSQL, but I'm also a great math enthusiast.
+Currently, I'm studying Java, JavaScript, C, Ruby, and PostgreSQL.
 
 Also, I'd like to share my profiles on Instagram, where I post content about technology:
 <div>
