@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Jonas Candido, and I'm exploring the world of technology to learn for fun and love.
+My name is Jonas Candido, and I'm an explorer of the world of technology.
 
 Also, I'd like to share my profiles on Instagram, where I post content about technology:
 <div>
