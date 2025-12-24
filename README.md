@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Jonas Candido, and I'm an explorer of the world of technology.
+My name is Jonas Candido, and I'm an explorer of the world of technology.<br>
 Also, I'd like to share my profile on Instagram, where I post content about technology:
 <div>
   <a href="https://www.instagram.com/candidod_jonas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=fort-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
