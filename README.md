@@ -14,7 +14,7 @@
 - I interned in a programming role at a startup. During this experience, I performed code maintenance, including bug fixes and improvements, and developed new features integrating frontend and backend. In this role, I worked with Laravel and MySQL as the database.
 
 
-## 🧠 My Focus Areas
+## 🧠 My Focus Area
 - Web Development
 
 
