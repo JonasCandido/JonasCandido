@@ -11,11 +11,6 @@
 - Full-stack Developer (React | Java | Spring Boot) focused on building modern applications. Experienced in developing REST APIs, integrating frontend and backend, and following best practices in version control with Git. I aim to enhance user experience.
 - I interned in a programming role at a startup. During this experience, I performed code maintenance, including bug fixes and improvements, and developed new features integrating frontend and backend. In this role, I worked with Laravel and MySQL as the database.
 
-
-## 🧠 My Focus Area
-- Web Development
-
-
 ## 📊 GitHub Activity Graph
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=JonasCandido&theme=vue&radius=10" alt="JonasCandido's Activity Graph" />
