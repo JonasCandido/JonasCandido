@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonas Dias Cândido</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2 align="center">Full Stack Developer</h2>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=JonasCandido">
     <img src="https://komarev.com/ghpvc/?username=JonasCandido&label=Profile%20views&color=00FFFF&style=flat-square" alt="JonasCandido's profile views" />
   </a>
 </p>
-
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Full-stack Developer (React | Java | Spring Boot) focused on building modern applications. Experienced in developing REST APIs, integrating frontend and backend, and following best practices in version control with Git. I aim to enhance user experience.
